@@ -1,0 +1,14 @@
+# Blender MTL File: 'Sci-Fi doorAnimated3.blend'
+# Material Count: 1
+
+newmtl entry_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\the3dpc\Desktop\Neuer Ordner (32)\BGE-Construction Set 1.5\textures\entry_3_AO.png
+map_Bump C:\\Users\\the3dpc\\Desktop\\Neuer Ordner (32)\\BGE-Construction Set 1.5\\textures\\entry_3_NOR.png
